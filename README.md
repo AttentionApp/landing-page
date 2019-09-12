@@ -1,7 +1,6 @@
 # AttentionApp Landing Page
 
 ## Branching
----
 - `feature/[FEATURE_NAME]`
 
   Every new feature that would be implemented should have its own branch
